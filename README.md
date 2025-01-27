@@ -1,6 +1,8 @@
 # Lonytech Website
 Official website for Lonytech - Empowering Africa's Digital Transformation through Data & AI Solutions.
 
+🌐 Live Website: https://lonytech.com
+
 ## Template Information
 
 - Template Name: Startup - Startup Website Template
